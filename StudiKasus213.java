@@ -65,5 +65,8 @@ public class StudiKasus213 {
             status = "Jenis kegiatan tidak valid.";
         }
 
+        System.out.println("Status : " + status);
+        input.close();
+
     }
 }
